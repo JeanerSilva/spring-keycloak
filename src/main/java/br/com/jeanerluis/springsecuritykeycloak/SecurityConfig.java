@@ -1,4 +1,4 @@
-package br.com.giulianabezerra.springsecuritykeycloak;
+package br.com.jeanerluis.springsecuritykeycloak;
 
 import static org.springframework.security.config.Customizer.withDefaults;
 

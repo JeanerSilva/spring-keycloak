@@ -1,4 +1,4 @@
-package br.com.giulianabezerra.springsecuritykeycloak;
+package br.com.jeanerluis.springsecuritykeycloak;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
