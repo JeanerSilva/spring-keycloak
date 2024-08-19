@@ -13,8 +13,8 @@
 		}
 	},
 	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
-	
-	"forwardPorts": [9090, 8080]
+	"runArgs": ["--network=host"],
+	// "forwardPorts": [9090, 8080]
 
 	//"mounts": ["source=/home/jeaner/projetos/internos/java/spring-security-keycloak,target=/workspaces/${localWorkspaceFolderBasename},type=bind,consistency=cached"]
 
